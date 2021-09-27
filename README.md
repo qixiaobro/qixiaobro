@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning Swift&SwiftUI
 - 👯 I’m looking to collaborate on Front-end
 - 🤔 I’m looking for help with Swift
-- 💬 Ask me about Qixiaobro
 - 📫 How to reach me: zxd982092690@icloud.com
 <!-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
